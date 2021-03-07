@@ -16,4 +16,6 @@ ZCZC W01 45 L15 Assignment #5
 ZCZC W01 20 L16 Assignment #6
 ZCZC W01 40 L17 Assignment #7
 ZCZC W01 30 L18 Assignment #8
+ZCZC W01 40 L24 Udacity: study
+ZCZC W01 40 L05 GSGS Related
 ZCZC W01 20 L27 Pets: playing
