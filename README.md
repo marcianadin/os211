@@ -5,7 +5,8 @@ Welcome to My Github Page
 
 [Github Page](https://marcianadin.github.io/os211/) | [Week 01](https://marcianadin.github.io/os211/W01/) | [Week 02](https://marcianadin.github.io/os211/W02/) |[Week 03](https://marcianadin.github.io/os211/W03/) |[Week 04](https://marcianadin.github.io/os211/W04/) | [Github](https://github.com/marcianadin/os211) | [My Log](https://marcianadin.github.io/os211/TXT/mylog.txt) | [My Rank](https://marcianadin.github.io/os211/TXT/myrank.txt) | [Key](https://marcianadin.github.io/os211/TXT/mypubkey.txt) 
 
-![Happy](https://data.whicdn.com/images/345377675/original.jpg){:height="700px" width="400px"}
+![Happy](https://data.whicdn.com/images/345377675/original.jpg)
+<img src="https://data.whicdn.com/images/345377675/original.jpg" width="100" height="100">
 
 
  
