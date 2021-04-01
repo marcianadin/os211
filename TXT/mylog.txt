@@ -63,6 +63,17 @@ ZCZC W04 20 L18 Assignment #8
 ZCZC W04 180 L10 Assignment (General)
 ZCZC W03 90 L22 Youtube: study, etc.
 ZCZC W03 50 L27 Pets: playing with Molly >.<
-
-
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05 30 L01 SCELE related
+ZCZC W05 60 L11 Assignment #1
+ZCZC W05 50 L12 Assignment #2
+ZCZC W05 120 L13 Assignment #3
+ZCZC W05 50 L14 Assignment #4
+ZCZC W05 30 L15 Assignment #5
+ZCZC W05 30 L16 Assignment $6
+ZCZC W05 20 L17 Assignment #7
+ZCZC W05 180 L10 Assignment (General)
+ZCZC W05 90 L22 Youtube: study, etc.
+ZCZC W05 50 L27 Pets: playing with Molly >.<
+ZCZC W05 10 L23 Discord: discussion
 
