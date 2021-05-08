@@ -103,4 +103,17 @@ ZZCC W07 40 L10 Assignment (General)
 ZCZC W07 150 L05 GSGS Time ^_^
 ZCZC W07 120 L22 YouTube
 ZCZC W07 30 L27 Pets: playing with Molly ^_^
-
+ZCZC W08 100 L02 ZOOM Class
+ZCZC W08 45 L09 AsDos: asking, etc.
+ZCZC W08 60 L07 Demo related
+ZCZC W08 60 L11 Assignment #1 
+ZCZC W08 45 L12 Assignment #2 
+ZCZC W08 150 L13 Assignment #3 
+ZCZC W08 250 L14 Assignment #4 
+ZCZC W08 30 L15 Assignment #5 
+ZCZC W08 20 L16 Assignment #6 
+ZCZC W08 15 L17 Assignment #7 
+ZZCC W08 40 L10 Assignment (General)
+ZCZC W08 90 L22 YouTube : watched some videos related to week 8
+ZCZC W08 50 L27 Pets: playing with molly ^_^
+ZCZC W08 15 L03 GitHub related
